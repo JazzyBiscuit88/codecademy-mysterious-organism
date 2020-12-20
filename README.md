@@ -47,7 +47,7 @@ ex2 = ['C', 'A', 'T', 'T']
 ### Step Five
 >P. aequor have a likelier chance of survival if their DNA is made up of at least 60% 'C' or 'G' bases.
 
-I>n the returned object of pAequorFactory(), add another method .willLikelySurvive().
+>In the returned object of pAequorFactory(), add another method .willLikelySurvive().
 
 >*.willLikelySurvive()* returns true if the object’s .dna array contains at least 60% 'C' or 'G' bases. Otherwise, .willLikelySurvive() returns false.
 
